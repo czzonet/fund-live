@@ -728,5 +728,7 @@ VSCode插件开发还是非常舒适的，有着良好的代码提示和调试�
 
 欢迎点赞关注，源码戳~[Github](https://github.com/czzonet/fund-live)
 
+## 参考
 
-
+1. [从零开始实现VS Code基金插件 - 掘金](https://juejin.im/post/6864712731484749831#heading-0)
+2. [Extension API | Visual Studio Code Extension API](https://code.visualstudio.com/api)
