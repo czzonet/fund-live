@@ -98,7 +98,7 @@ code .
 
 注意：
 
-- 图标是必须的，如果没有可用的，可以去iconmonstr免费免注册下载，[传送门iconmonstr](https://iconmonstr.com/)，也可以下载本项目的图标。
+- 图标是必须的，如果没有可用的，可以去iconmonstr免费免注册下载，[传送门iconmonstr](https://iconmonstr.com/)，也可以下载本项目的图标。源码戳~[Github](https://github.com/czzonet/fund-live)
 - 没有视图的视图容器不会显示。
 - 只有一个视图的视图容器，视图容器的标题和视图名称会合并显示。
 
@@ -209,7 +209,7 @@ export class FundTreeDataProvider implements TreeDataProvider<FundInfo> {
 
 运行：
 
-
+![](simplelist.png)
 
 ### 读写数据配置存储
 
