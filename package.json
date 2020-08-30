@@ -3,6 +3,8 @@
   "displayName": "fund-live",
   "description": "",
   "version": "0.0.1",
+  "author": "czzonet <czzonet@163.com>",
+  "license": "Apache-2.0",
   "engines": {
     "vscode": "^1.48.0"
   },
