@@ -44,6 +44,7 @@ code .
 
 工作区如图
 
+![](workspace.png)
 
 
 如果要在侧边栏显示自定义插件视图，就配置`package.json`的`"contributes"`字段，添加插件视图容器`"viewsContainers"`字段和视图`"views"`字段。[扩展工作区官方文档](https://code.visualstudio.com/api/extension-capabilities/extending-workbench)
